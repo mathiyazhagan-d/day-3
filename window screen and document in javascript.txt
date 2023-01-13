@@ -22,4 +22,4 @@ Screen
                     screen.availWidth
                      screen.availHeight
                       screen.colorDepth
-s                       screen.pixelDepth
+                        screen.pixelDepth
